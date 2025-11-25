@@ -2,9 +2,9 @@
 
 A modular multi-view locomotion tracking toolkit for primate behavioral research.
 
-<p align="left"> <!-- Release --> <img src="https://img.shields.io/github/v/release/ShanJiangEmugen/Monkey3D-TrackingToolkit?color=blue&label=Release&style=flat-square" /> 
-  <!-- License --> <img src="https://img.shields.io/github/license/ShanJiangEmugen/Monkey3D-TrackingToolkit?style=flat-square" /> 
-  <!-- Issues --> <img src="https://img.shields.io/github/issues/ShanJiangEmugen/Monkey3D-TrackingToolkit?style=flat-square" /> 
+<p align="left"> <!-- Release --> <img src="https://img.shields.io/github/v/release/ShanJiangEmugen/PrimateMotion3D?color=blue&label=Release&style=flat-square" /> 
+  <!-- License --> <img src="https://img.shields.io/github/license/ShanJiangEmugen/PrimateMotion3D?style=flat-square" /> 
+  <!-- Issues --> <img src="https://img.shields.io/github/issues/ShanJiangEmugen/PrimateMotion3D?style=flat-square" /> 
   <!-- Python Version --> <img src="https://img.shields.io/badge/Python-3.8%20|%203.9%20|%203.10-blue?style=flat-square" /> 
   <!-- Platform --> <img src="https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey?style=flat-square" /> 
 </p>
