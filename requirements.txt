@@ -1,0 +1,16 @@
+# Core numeric / data libraries
+numpy>=1.23
+pandas>=1.5
+
+# Image & video processing
+opencv-python>=4.7
+
+# Plotting / visualization
+matplotlib>=3.7
+
+# YAML config support
+PyYAML>=6.0
+
+# CLI / progress bar
+tqdm>=4.65
+

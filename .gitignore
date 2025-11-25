@@ -1,0 +1,106 @@
+# ===============================
+# Python cache / bytecode
+# ===============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual envs
+venv/
+.env/
+.env*/
+
+
+# ===============================
+# Jupyter Notebook
+# ===============================
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/*
+# Notebook 自动输出的全局隐藏
+*.nbconvert.ipynb
+
+
+# ===============================
+# OS / Editor
+# ===============================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+
+# ===============================
+# Logs / temp files
+# ===============================
+*.log
+*.tmp
+*.bak
+
+
+# ===============================
+# Videos (raw data)
+# Avoid uploading large experiment files
+# ===============================
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.MP4
+*.AVI
+
+
+# ===============================
+# Images / Plot outputs
+# ===============================
+plots/
+**/plots/*
+figures/
+**/figures/*
+*.png
+*.jpg
+*.jpeg
+*.tiff
+
+
+# ===============================
+# Data directories
+# Keep example configs / demo CSVs only
+# ===============================
+data/
+data/*
+!data/examples/
+!data/examples/*
+
+# Avoid saving large CSV outputs
+*.csv
+!data/examples/*.csv   # allow small example CSVs
+
+
+# ===============================
+# Model artifacts (if added in future)
+# ===============================
+*.npy
+*.npz
+*.h5
+*.pt
+*.pth
+*.onnx
+
+
+# ===============================
+# Calibration / ROI picking temp files
+# ===============================
+*.yaml~
+*.json~
+*.cache
+
+
+# ===============================
+# Build / dist
+# ===============================
+build/
+dist/
+*.egg-info/
+
